@@ -11,6 +11,17 @@ The following query parameters are used in Naughty Node:
 - `term` — The term is the word/phrase/text that you want Naughty Node to evaluate. 
 - `kgKey` — The kgKey is used as an authentication key, can you [learn more about the usage and implementation here](#kgKey).
 
+### Use Cases
+
+The uses cases for this are genuinely limited by your imagination. 
+
+At [Kogneta](https://kogneta.com/), a few cases for Naughty Node include:
+- Evaluating page content and anchors to identify spammy links
+- Scanning UGC for content that may need to be removed 
+- Analyzing customer reviews to identify offensive or explicit ones
+
+_... are you using Naught Node in a unique way? Let us know and we'll feature you :)_
+
 ## Deployment
 
 ### Environment Variables
